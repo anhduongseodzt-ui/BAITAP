@@ -1,0 +1,6 @@
+D:\folderC#\baitap\common\bin\Debug\common.dll
+D:\folderC#\baitap\common\bin\Debug\common.pdb
+D:\folderC#\baitap\common\obj\Debug\common.csproj.AssemblyReference.cache
+D:\folderC#\baitap\common\obj\Debug\common.csproj.CoreCompileInputs.cache
+D:\folderC#\baitap\common\obj\Debug\common.dll
+D:\folderC#\baitap\common\obj\Debug\common.pdb
