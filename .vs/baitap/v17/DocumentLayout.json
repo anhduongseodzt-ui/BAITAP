@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\folderC#\\baitap\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|d:\\folderc#\\baitap\\dataacess\\employeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|D:\\folderC#\\baitap\\dataacess\\employeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\employeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04FA49EC-106E-44F4-926E-5FB2FD275CAE}|baitap\\baitap.csproj|D:\\folderC#\\baitap\\baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04FA49EC-106E-44F4-926E-5FB2FD275CAE}|baitap\\baitap.csproj|solutionrelative:baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|D:\\folderC#\\baitap\\dataacess\\stract\\employeer_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\stract\\employeer_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A705F1E7-B721-4699-9FBE-6AFB973BB8C2}|common\\common.csproj|D:\\folderC#\\baitap\\common\\validateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A705F1E7-B721-4699-9FBE-6AFB973BB8C2}|common\\common.csproj|solutionrelative:common\\validateinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|D:\\folderC#\\baitap\\dataacess\\stract\\employeer_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\stract\\employeer_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04FA49EC-106E-44F4-926E-5FB2FD275CAE}|baitap\\baitap.csproj|d:\\folderc#\\baitap\\baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04FA49EC-106E-44F4-926E-5FB2FD275CAE}|baitap\\baitap.csproj|solutionrelative:baitap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|D:\\folderC#\\baitap\\dataacess\\enum\\employeerenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\enum\\employeerenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|D:\\folderC#\\baitap\\dataacess\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\folderC#\\baitap\\packages\\EPPlus.8.2.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.8.2.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|D:\\folderC#\\baitap\\dataacess\\enum\\employeerenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{27F7CE44-B65B-4A21-9853-AB0808E8E1CD}|DataAcess\\DataAcess.csproj|solutionrelative:dataacess\\enum\\employeerenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "readme.txt",
               "DocumentMoniker": "D:\\folderC#\\baitap\\packages\\EPPlus.8.2.1\\readme.txt",
               "RelativeDocumentMoniker": "packages\\EPPlus.8.2.1\\readme.txt",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Employeer_Struct.cs",
               "DocumentMoniker": "D:\\folderC#\\baitap\\DataAcess\\STRACT\\Employeer_Struct.cs",
               "RelativeDocumentMoniker": "DataAcess\\STRACT\\Employeer_Struct.cs",
@@ -66,7 +66,8 @@
               "RelativeToolTip": "DataAcess\\STRACT\\Employeer_Struct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T16:15:00.387Z"
+              "WhenOpened": "2025-11-18T16:15:00.387Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -76,14 +77,14 @@
               "RelativeDocumentMoniker": "DataAcess\\Employeer.cs",
               "ToolTip": "D:\\folderC#\\baitap\\DataAcess\\Employeer.cs",
               "RelativeToolTip": "DataAcess\\Employeer.cs",
-              "ViewState": "AgIAAFYAAACA/v////8HwGIAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAADAwszMzAwjwIcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-18T15:47:09.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Function.cs",
               "DocumentMoniker": "D:\\folderC#\\baitap\\DataAcess\\Function.cs",
               "RelativeDocumentMoniker": "DataAcess\\Function.cs",
@@ -101,25 +102,27 @@
               "RelativeDocumentMoniker": "common\\ValiDateInput.cs",
               "ToolTip": "D:\\folderC#\\baitap\\common\\ValiDateInput.cs",
               "RelativeToolTip": "common\\ValiDateInput.cs",
-              "ViewState": "AgIAAAIAAAAAoJmZmZkJwFcAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAABA/P///38UwGUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-18T15:08:55.713Z"
+              "WhenOpened": "2025-11-18T15:08:55.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\folderC#\\baitap\\baitap\\Program.cs",
               "RelativeDocumentMoniker": "baitap\\Program.cs",
               "ToolTip": "D:\\folderC#\\baitap\\baitap\\Program.cs",
               "RelativeToolTip": "baitap\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAADAlJmZmRkWwCAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T16:34:16.109Z"
+              "WhenOpened": "2025-11-17T16:34:16.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "EmployeerEnum.cs",
               "DocumentMoniker": "D:\\folderC#\\baitap\\DataAcess\\ENUM\\EmployeerEnum.cs",
               "RelativeDocumentMoniker": "DataAcess\\ENUM\\EmployeerEnum.cs",

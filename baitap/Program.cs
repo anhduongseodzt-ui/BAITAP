@@ -16,7 +16,7 @@ namespace baitap
             switch (kq)
             {
                 case (int)EmployeerEnum.THANHCONG:
-                    Console.WriteLine("THANH CONG");
+                    Console.WriteLine("THANH CONGbbbb");
                     break;
                 case (int)EmployeerEnum.THATBAI:
                     Console.WriteLine("THATBAI");
